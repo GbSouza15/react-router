@@ -1,0 +1,30 @@
+:root {
+  font-family: sans-serif;
+  color: #220930;
+}
+
+body {
+  background-color: #575757;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.option-menu {
+  text-decoration: none;
+  color: #220930;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+p {
+  text-align: justify;
+  margin: 0 2rem;
+}
